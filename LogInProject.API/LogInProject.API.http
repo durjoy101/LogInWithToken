@@ -1,0 +1,6 @@
+@LogInProject.API_HostAddress = http://localhost:5179
+
+GET {{LogInProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
